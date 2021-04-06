@@ -1,0 +1,4 @@
+name "atrox-radixsort"
+description "radix sort - fast sorting method for fixed length values"
+license "GPL-3.0"
+targetType "library"

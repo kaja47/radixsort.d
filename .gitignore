@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/radixsort
+radixsort.so
+radixsort.dylib
+radixsort.dll
+radixsort.a
+radixsort.lib
+radixsort-test-*
+*.exe
+*.o
+*.obj
+*.lst
